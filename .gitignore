@@ -1,0 +1,142 @@
+# ========================
+# OS Generated Files
+# ========================
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Thumbs.db
+desktop.ini
+
+# ========================
+# IDE / Editor
+# ========================
+.idea/
+.vscode/
+*.swp
+*.swo
+*~
+*.sublime-project
+*.sublime-workspace
+.project
+.classpath
+.settings/
+
+# ========================
+# Python
+# ========================
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+*.egg
+*.egg-info/
+dist/
+build/
+eggs/
+*.whl
+pip-log.txt
+pip-delete-this-directory.txt
+.Python
+env/
+venv/
+.venv/
+ENV/
+.env
+*.virtualenv
+
+# Jupyter Notebook Checkpoints
+.ipynb_checkpoints/
+
+# ========================
+# Data Files (Large/Binary)
+# ========================
+*.hdf5
+*.h5
+*.hdf
+*.npy
+*.npz
+*.pkl
+*.pickle
+*.parquet
+*.feather
+*.csv
+*.tsv
+*.xlsx
+*.xls
+*.json.gz
+*.tar
+*.tar.gz
+*.tar.bz2
+*.zip
+*.7z
+*.rar
+*.gz
+*.bz2
+
+# ========================
+# Model Weights / Checkpoints
+# ========================
+*.pth
+*.pt
+*.ckpt
+*.h5
+*.pb
+*.onnx
+*.tflite
+*.savedmodel
+*.caffemodel
+*.weights
+
+# ========================
+# Image / Media Files
+# ========================
+*.png
+*.jpg
+*.jpeg
+*.gif
+*.bmp
+*.tiff
+*.tif
+*.svg
+*.ico
+*.mp4
+*.avi
+*.mov
+*.mkv
+*.mp3
+*.wav
+
+# ========================
+# Log Files
+# ========================
+*.log
+logs/
+*.out
+
+# ========================
+# Compiled / Binary
+# ========================
+*.o
+*.a
+*.lib
+*.dll
+*.dylib
+*.exe
+*.bin
+*.class
+*.jar
+
+# ========================
+# Misc
+# ========================
+.cache/
+.pytest_cache/
+.mypy_cache/
+.tox/
+.coverage
+htmlcov/
+*.cover
+node_modules/
